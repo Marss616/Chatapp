@@ -13,7 +13,7 @@ def button_click_localhost(e):
 
 # Start GUI
 root = Tk()
-root.title("Jack's Calculation")
+root.title("Jack's Chat-App")
 
 e = Entry(root, width=25, borderwidth=5)
 e.grid(row=0, column=1, columnspan=2, padx=10, pady=10)
