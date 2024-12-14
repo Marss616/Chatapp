@@ -1,6 +1,10 @@
 import socket
 import threading
 
+## How to use:
+
+
+
 def handle_incoming_connections(server_socket):
     while True:
         client_socket, addr = server_socket.accept()
