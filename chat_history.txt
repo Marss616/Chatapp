@@ -1,3 +1,0 @@
-Client1 ('127.0.0.1', 54720): hello
-Client1 ('127.0.0.1', 54720): I am 0A
-Client1 ('127.0.0.1', 54720): Correction A1
